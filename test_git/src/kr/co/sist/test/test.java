@@ -6,6 +6,8 @@ public class test {
 		System.out.println("Git commit & Push 연습");
 		System.out.println("신기능 추가");
 		System.out.println("dmdkdkkkdkddk");
+		
+		System.out.println("sdsdsdsdsdd");
 	}
 
 }
