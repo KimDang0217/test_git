@@ -1,4 +1,4 @@
-package kr.co.sist.dao;
+package kr.co.sist.test;
 
 public class test {
 
